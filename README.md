@@ -23,18 +23,18 @@ My name is Tymur
 
 <br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=voloshynajelena&label=Profile%20views&color=0e75b6&style=flat" alt="voloshynajelena" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TymurTs&label=Profile%20views&color=0e75b6&style=flat" alt="TymurTs" /> </p>
 
 ### 📈 My GitHub Stats
   
-![My github stats](https://github-readme-stats.vercel.app/api?username=voloshynajelena&show_icons=true&count_private=true&hide=stars)
+![My github stats](https://github-readme-stats.vercel.app/api?username=TymurTs&show_icons=true&count_private=true&hide=stars)
 
 
 
 
 ### Most used language
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=voloshynajelena&show_icons=true&locale=en&layout=compact" alt="voloshynajelena" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TymurTs&show_icons=true&locale=en&layout=compact" alt="TymurTs" />
 
 <br/>
 
