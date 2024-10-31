@@ -3,7 +3,7 @@
 My name is Tymur
 
 * From Ukraine
-* Living in United States
+* Living in the United States
 * Frontend developer
 
 📫 How to reach me: [email (tymurtsapchuk@gmail.com)](mailto:tymurtsapchuk@gmail.com)
@@ -39,5 +39,5 @@ My name is Tymur
 <br/>
 
 <!--
-**voloshynajelena/voloshynajelena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TymurTs/TymurTs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
