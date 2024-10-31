@@ -1,12 +1,12 @@
 # Hi there 👋
 
-My name is Olena
+My name is Tymur
 
 * From Ukraine
-* Living in Canada
+* Living in United States
 * Frontend developer
 
-📫 How to reach me: [email (voloshynajelena@gmail.com)](mailto:voloshynajelena@gmail.com)
+📫 How to reach me: [email (tymurtsapchuk@gmail.com)](mailto:tymurtsapchuk@gmail.com)
 
 <br/>
 
